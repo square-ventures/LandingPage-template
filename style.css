@@ -43,7 +43,7 @@ and (orientation: landscape) {
 .terms-button
 {
 	display: block;
-	position: absolute;
+	position: relative;
 	bottom:-6px;
 	left:50%;
 	right: 50%;
