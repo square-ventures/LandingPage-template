@@ -24,6 +24,7 @@ body
 and (orientation: landscape) {
   .main-img {
 	height: 100ch;
+	margin-top: 24px;
   }
 
   .terms-button{
