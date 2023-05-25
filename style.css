@@ -44,7 +44,7 @@ and (orientation: landscape) {
 {
 	display: block;
 	position: relative;
-	bottom:-6px;
+	bottom:-32px;
 	left:50%;
 	right: 50%;
 	transform: translate(-50%,-50%);
