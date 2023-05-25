@@ -18,6 +18,7 @@ body
 	height: 100%;
 	object-fit: contain;
 	padding-top: 24px;
+	margin-top: 12px;
 	
 }
 
@@ -25,7 +26,6 @@ body
 and (orientation: landscape) {
   .main-img {
 	height: 100ch;
-	margin-top: 12px;
   }
 
   .terms-button{
