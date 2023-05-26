@@ -28,13 +28,6 @@ and (orientation: landscape) {
 	height: 100ch;
   }
 
-  .terms-button{
-	bottom: -59ch!important;
-	width: 174px!important;
-	height: 36px!important;
-	margin-bottom: 24px;
-	padding-bottom: 24px;
-	}
 
 }
 
@@ -47,18 +40,15 @@ and (orientation: landscape) {
 {
 	display: block;
 	position: relative;
-	bottom:-32px;
-	left:50%;
-	right: 50%;
-	transform: translate(-50%,-50%);
 	width: 174px;
 	height: 36px;
+	margin-inline:auto;
 
 }
 
 @media  (min-width:600px) {
 	.terms-button{
-	bottom:-3px;
+
 	width: 240px;
 	height: 48px;
 	}
